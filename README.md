@@ -6,6 +6,9 @@
   <a href="#bookmark-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-como-utilizar">Como utilizar</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#imagens-imagens">Imagens</a>
+
 </p>
 
 <br>
@@ -48,7 +51,7 @@ yarn start
 
 npm start
 ```
-# Imagens
+## :imagens: Imagens
 
 > Repositorios
 
