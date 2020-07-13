@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-como-utilizar">Como utilizar</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#imagens-imagens">Imagens</a>
+  <a href="#imagens">Imagens</a>
 
 </p>
 
@@ -51,7 +51,7 @@ yarn start
 
 npm start
 ```
-## :imagens: Imagens
+## Imagens
 
 > Repositorios
 
